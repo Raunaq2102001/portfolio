@@ -1,16 +1,37 @@
-<<<<<<< HEAD
-# React + Vite
+# 🚀 Md Raunaq Alam's Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website! This space showcases my journey as a Computer Science & Engineering student, where I share my **projects**, **skills**, and **interests** in the tech world — from machine learning and web development to networking and more.
 
-Currently, two official plugins are available:
+## 🌐 Live Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 **Check it out here:** [https://raunaq2102001.github.io/portfolio/](https://raunaq2102001.github.io/portfolio/)
 
-## Expanding the ESLint configuration
+## 🛠️ Built With
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Raunaq2102001.github.io
->>>>>>> 23babd09ca18b0d30c5d30f6cdd74068029c225d
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **React.js** (if applicable)
+- **Vite/Webpack** (if applicable)
+- **GitHub Pages** for deployment
+
+## 📁 Features
+
+- Clean and responsive layout
+- Highlights key skills and education
+- Project showcase section
+- Contact and social media integration
+
+## 📸 Sneak Peek
+
+> A polished interface that reflects my passion for technology and growth.
+
+## 🤝 Let's Connect
+
+- 📧 Email: [ralam2102001@gmail.com](mailto:ralam2102001@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/raunaq-alam-a95bbb32a/)  
+- 🖥️ [GitHub](https://github.com/Raunaq2102001)
+
+---
+
+Made with ❤️ by **Md Raunaq Alam**
