@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Inter:wght@300;400;700&display=swap");
+
+.font-serif {
+  font-family: "Playfair Display", serif;
+}
+
+.font-sans {
+  font-family: "Inter", sans-serif;
+}
+
+
+/* Apply gradient background to the entire page */
+body {
+    background: linear-gradient(to bottom right, rgb(20, 21, 22), black);
+    
+  }
+  

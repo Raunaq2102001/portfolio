@@ -1,0 +1,30 @@
+/* Basic page styles */
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #0c0c0c;
+  }
+  
+  /* Meteor Progress Bar container */
+  .progress-container {
+    width: 80%;
+    max-width: 600px;
+    height: 10px;  /* Set the height to 10px */
+    background-color: transparent;  /* Make the container transparent */
+    border-radius: 20px;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  /* Meteor-like Progress Bar */
+  .progress-bar {
+    height: 100%;
+    width: 100%; /* Full width to represent the meteor's tail */
+    background: linear-gradient(to right, red, yellow, lime, cyan, blue);
+    border-radius: 10px; /* Rounded corners for the bar */
+  }
+  
